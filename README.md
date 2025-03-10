@@ -14,6 +14,6 @@ This is a simple HTTP server project build by using Go language
 * go run main.go
 
 3. Check the browser typing localhost:<port_number> 
-* usually this port is 8080 if nay error arises in the browser change the port number
+* usually this port is 8080 if any errors arise in the browser change the port number
 
 
